@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Melüt;Full+Stack+Developer;Minecraft+Plugin+Developer;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 A Passionate Developer from Turkey</h3>
+<h3 align="center">🚀 A Passionate Developer from Turkey </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amhunter1&label=Profile%20Views&color=0e75b6&style=flat" alt="amhunter1" />
