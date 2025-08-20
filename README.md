@@ -33,7 +33,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,c,cpp,nodejs,express,mysql,sqlite,mongodb,git,github,linux,docker,aws,firebase,photoshop" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,cpp,nodejs,express,mysql,sqlite,mongodb,git,github,linux" />
 </p>
 
 ---
