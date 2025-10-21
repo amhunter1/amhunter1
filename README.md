@@ -27,7 +27,7 @@
 
 ## 📫 Connect with Me
 - 💬 Discord: *gfwilliam*
-- 📧 Email: *gfwilliamtr@gmail.com*
+- 📧 Email: *gfwilliamtr@gmail.com* 
 
 ---
 
