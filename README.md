@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,nodejs,express,mysql,sqlite,git,github,linux" />
 </p>
-![Skills](skills.png)
+<img src="skills.png" alt="Skills" width="600">
 ---
 
 ## 📊 GitHub Stats
